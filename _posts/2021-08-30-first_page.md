@@ -12,7 +12,7 @@ index        |      Classification        |	     Segmentation          |  Detect
 real-time  | [NAS](https://b-xie.github.io/b-xie.github.io-fusing/class_nas/)<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR  | NAS<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR <br> Thermal |  NAS<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR <br> Thermal<br> Radar<br>3D   |![image](https://user-images.githubusercontent.com/60713917/131202414-9f2a0ac4-f795-4411-ae57-2759f3687556.png)|![image](https://user-images.githubusercontent.com/60713917/131202429-0a746be5-4799-4d37-8227-8a47c4268619.png)
 robustness   | Manual<br>Camera<br>LiDAR  | Manual<br>Camera<br>LiDAR <br> Thermal |  Manual<br>Camera<br>LiDAR <br> Thermal<br> Radar<br>3D   | |
 
-[NAS](https://github.com/b-xie/b-xie.github.io-fusing/blob/master/_posts/2021-08-30-class_nas.html)
+[NAS](https://b-xie.github.io/b-xie.github.io-fusing/class_nas/)
 
 You can use the [editor on GitHub](https://github.com/b-xie/b-xie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
